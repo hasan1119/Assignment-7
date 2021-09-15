@@ -52,16 +52,15 @@ header p {
 .single-product {
   transition: 0.5s;
   width: 90%;
-  border: 1px solid #fff;
 }
 
 .product-container {
   min-height: 500px;
-  background: #fff !important;
   margin: 20px 10px;
   transition: .5s;
   padding: 15px 10px;
-
+  justify-content: center;
+  background: lightblue;
 }
 
 .product-container:hover {
@@ -96,11 +95,11 @@ header p {
 }
 
 .title {
-  color: rgb(14, 170, 231);
+  color: rgb(0 71 255)
 }
 
 .details {
-  background: rgb(54, 169, 173) !important;
+  background: rgb(0 123 255) !important;
   color: white !important;
 }
 
