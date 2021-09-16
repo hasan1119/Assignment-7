@@ -60,7 +60,7 @@ header p {
   transition: .5s;
   padding: 15px 10px;
   justify-content: center;
-  background: lightblue;
+  background: #d1d8e0;
 }
 
 .product-container:hover {
